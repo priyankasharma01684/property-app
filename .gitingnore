@@ -1,0 +1,8 @@
+# Ignore node_modules directory in the root of the project
+node_modules/
+
+# Ignore the .gitignore file itself
+.gitignore
+
+# Ignore node_modules inside backend
+property-app-backend/node_modules/
